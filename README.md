@@ -14,4 +14,4 @@ module.exports = {
 
 Then run `npm run build`.
 
-I'd like a way to produce the index.html with all assets on the CDN URL. Except, I'd like to link with /manifest.json (or /path/manifest.json).
+I'd like a way to produce the index.html with all assets on the CDN URL. Except, I'd like to link with /manifest.json (or /path/manifest.json) because the manifest has to be on the same origin as the site's index.
